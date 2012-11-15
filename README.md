@@ -1,8 +1,11 @@
 # Dependencies
+```bash
 $ pear install HTTP_Request2 
+```
 see http://pear.php.net/package/HTTP_Request2
 
-# Create a GitHub application at https://github.com/settings/applications
+# Create a GitHub application
+https://github.com/settings/applications
 
 # Update your conf
 Copy the github-sample.conf to github.conf.
