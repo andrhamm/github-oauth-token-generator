@@ -1,5 +1,0 @@
-[Thu Nov 15 11:40:08 2012] [error] [client 127.0.0.1] Directory index forbidden by Options directive: /Users/andrew/EverTrue/dev/gittoken/htdocs/
-[Thu Nov 15 11:40:08 2012] [error] [client 127.0.0.1] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
-[Thu Nov 15 12:59:15 2012] [error] [client 127.0.0.1] PHP Parse error:  parse error in /Users/andrew/EverTrue/dev/gittoken/htdocs/connected.php on line 18
-[Thu Nov 15 12:59:25 2012] [error] [client 127.0.0.1] PHP Warning:  require_once(HTTP_Request.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /Users/andrew/EverTrue/dev/gittoken/htdocs/connected.php on line 3
-[Thu Nov 15 12:59:25 2012] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'HTTP_Request.php' (include_path='.:/Users/andrew/pear/share/pear') in /Users/andrew/EverTrue/dev/gittoken/htdocs/connected.php on line 3
