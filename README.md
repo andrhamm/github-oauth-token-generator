@@ -8,9 +8,9 @@ see http://pear.php.net/package/HTTP_Request2
 https://github.com/settings/applications
 
 # Update your conf
-Copy the github-sample.conf to github.conf.
+Copy the config-sample.php to config.php
 Edit it to add your settings.
-Include your env's httpd.conf in your MAIN Apache conf
+Create a virtualhost in Apache pointing to the htdocs directory as the documentroot.
 Do an Apache restart.
 Edit your /etc/hosts file to point your 'base url' to localhost.
 
