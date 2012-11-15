@@ -1,5 +1,8 @@
+config/*
 config/github.conf
+logs/
 logs/*
+include/config.php
 .DS_Store
 .bash_history
 .bash_logout
