@@ -1,0 +1,12 @@
+config/github.conf
+.DS_Store
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.gitconfig
+.lesshst
+.ssh/
+.viminfo
+.vim/
+*~
